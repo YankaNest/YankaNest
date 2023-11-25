@@ -7,7 +7,7 @@
 - ✨ Apex Legends forever
 - ✨ Python, C++
 - ✨ 20 y.o.
-- ✨ True advanturers
+- ✨ True adventurers
 
 
 ### Find me here
