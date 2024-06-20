@@ -5,8 +5,8 @@
 
 ### About me:
 - ✨ Apex Legends forever
-- ✨ Python, C++
-- ✨ 20 y.o.
+- ✨ Python, C++, C#, JS
+- ✨ 21 y.o.
 - ✨ True adventurers
 
 
