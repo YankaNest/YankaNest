@@ -4,10 +4,10 @@
 
 
 ### About me:
-✨ Apex Legends forever
-✨ Python, C++, C#, JS
-✨ 21 y.o.
-✨ True adventurers
+- ✨ Apex Legends forever
+- ✨ Python, C++, C#, JS
+- ✨ 21 y.o.
+- ✨ True adventurers
 
 
 ### Find me here
