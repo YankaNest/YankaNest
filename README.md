@@ -1,13 +1,9 @@
 ### Hey guys! 👋
 
-<img alt="GIF" src="https://media1.giphy.com/media/tXjF40VAtnILzXO1bK/giphy.gif?cid=ecf05e47o99v6o6t7duvgekgfrnvbv6jsequay2tvu2q3wc9&ep=v1_gifs_search&rid=giphy.gif&ct=g">
-
-
 ### About me:
-- ✨ Apex Legends forever
-- ✨ Python, C++, C#, JS
+- ✨ Fronend
+- ✨ JS(TS), Python, C++, C#
 - ✨ 21 y.o.
-- ✨ True adventurers
 
 
 ### Find me here
