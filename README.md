@@ -3,7 +3,7 @@
 ### About me:
 - ✨ Fronend
 - ✨ JS(TS), Python, C++, C#
-- ✨ 21 y.o.
+- ✨ 22 y.o.
 
 
 ### Find me here
