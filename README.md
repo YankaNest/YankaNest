@@ -1,8 +1,8 @@
 ### Hey guys! 👋
 
 ### About me:
-- ✨ Fronend
-- ✨ JS(TS), Python, C++, C#
+- ✨ Frontend
+- ✨ JS(TS), React, Next.js, Python, C++, C#
 - ✨ 22 y.o.
 
 
