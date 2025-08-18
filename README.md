@@ -13,7 +13,7 @@
 > ✨ REST API, JSON
 
 **Backend & Скрипты:**  
-> ✨ Python, C++, C#
+> ✨ Python, C++, C#  
 > ✨ Автоматизация, интеграции, работа с API
 
 ---
